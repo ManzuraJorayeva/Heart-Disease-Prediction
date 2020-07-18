@@ -1,0 +1,10 @@
+Heart Disease Prediciton
+
+
+We used patient’s data to predict ‘Heart Diseases’. 
+Dataset was taken from UCI repository and it had 14 columns 
+(age, gender, blood pressure, Chest-pain type, Serum Cholesterol,
+Fasting Blood Sugar) .
+After we cleaned dataset and used ML techniques KNN, Decision tree, 
+Random Forest to predict diseases. 
+In the end we compare results and get best results. 
